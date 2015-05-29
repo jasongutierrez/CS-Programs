@@ -1,2 +1,2 @@
 # CS-Programs
-Programs written in C#
+This repository holds small programs written in C#
